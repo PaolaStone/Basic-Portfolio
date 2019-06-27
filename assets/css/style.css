@@ -90,3 +90,12 @@
     border-top: 8px solid #4aaaa5;
     vertical-align: text-bottom;
     }
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
