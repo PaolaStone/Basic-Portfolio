@@ -23,13 +23,23 @@
 
 .bar{
     float:right;
-    margin-right: 480px;
-    padding-top: 20px;
+    margin-right: 450px;
+    vertical-align: center;
     font-size: 14px;
+    margin-top:25px;   
+
+    
 }
 
 .menu{
     text-decoration: none;
+    padding: 15px;
+    
+    
+}
+
+.menuborder{
+    border-right: 1px solid #dddddd;
     
 }
 
